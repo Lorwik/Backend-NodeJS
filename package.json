@@ -39,4 +39,7 @@
     "coverageReporters":["json","html"],
     "globalTeardown":"./global-kill.js"
   },
+  "engines:" {
+    "node": "16.x"
+  }
 }
